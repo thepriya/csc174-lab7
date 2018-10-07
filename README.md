@@ -29,9 +29,9 @@ The index and the subpage are both divided into header, article and footer secti
 The header contains just the title for the pages.
 The article contains the bulk of the page. The article is furthur divided into three sections, one for each student, for both index and the subpage. Each section is outlined differently for index and the subpage.
 
-For the index, each section contains the student's name in header tag, followed by the figure tag (containing the photo), a paragraph of text in <p> tag, and a link to the original website in an <a> tag.
+For the index, each section contains the student's name in header tag, followed by the figure tag (containing the photo), a paragraph of text in p tag, and a link to the original website in an a tag.
 
-Fof the subpage, each section contains the student's name, image, subheadings with content in <h3> and <p> tags respectively.
+Fof the subpage, each section contains the student's name, image, subheadings with content in h3 and p tags respectively.
 The footer is empty for now but will be modified with content later on.
 
 
