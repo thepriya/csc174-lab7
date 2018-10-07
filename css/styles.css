@@ -47,3 +47,15 @@ article {
 p {
 	line-height: 1.4em;
 }
+
+a {
+	color: #f58b4c;
+}
+
+a:hover {
+	color: #c2571a;
+}
+
+a:visited {
+	color: #912617;
+}
