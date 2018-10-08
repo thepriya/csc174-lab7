@@ -1,66 +1,30 @@
-/*https://www.viget.com/articles/color-contrast/*/
+/*
+	CSS strategy: SMACCS
+	All styles are placed in sections of styles.css with the exception of navigation elements.
+	However all navigation elements are taken out of the base section of this file and placed in navigation.css
 
-/* CSS inspired by:
+	Table of Contents
+		Base
+			also in navigation.css
+		Layout
+		Module
+
+
+	
+	CSS inspired by:
 	http://csc174.org/assignment02/dcancelmo/css/styles.css
+	
+	Color scheme:
+	https://www.viget.com/articles/color-contrast/
 */
 
+/* ______________________BASE______________________ */
+/* All navigation related base elements are placed in navigation.css */
 body {
 	background-color: #093145;
 	color: #373d3f;
 	font-size: 1.1em;
 	font-family: Merriweather, serif;
-}
-
-/*header {
-	border-bottom: 3px double grey;
-}*/
-
-article > div.container {
-	margin-top: 30px;
-	margin-bottom: 30px;
-}
-
-h1 {
-	padding: 15px 0 0 10px;
-}
-
-.container {
-	margin: 0 auto;
-	width: 85%;
-	background-color: #f2f3f4;
-	border-radius: 2px;
-	padding-right: 10px;
-	padding-left: 10px;
-	padding-bottom: 1px;
-}
-
-figure {
-	margin-top: 20px;
-	background-color: #C0C0C0;
-	padding: 10px;
-	text-align: center;
-}
-
-.right-img {
-	float: right;
-	margin-left: 10px;
-	margin-right: 0;
-}
-
-.left-text {
-	text-align: left;
-	clear: left;
-}
-
-.right-text {
-	text-align: right;
-	clear: right;
-}
-
-.left-img {
-	float: left;
-	margin-left: 0;
-	margin-right: 10px;
 }
 
 article {
@@ -74,6 +38,17 @@ section {
 footer {
 	padding: 10px;
 	clear: both;
+}
+
+h1 {
+	padding: 15px 0 0 10px;
+}
+
+figure {
+	margin-top: 20px;
+	background-color: #C0C0C0;
+	padding: 10px;
+	text-align: center;
 }
 
 p {
@@ -90,6 +65,48 @@ a:visited {
 
 a:hover {
 	color: #c2571a;
+}
+
+
+
+/* ______________________LAYOUT______________________ */
+.container {
+	margin: 0 auto;
+	width: 85%;
+	background-color: #f2f3f4;
+	border-radius: 2px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 1px;
+}
+
+article > div.container {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+
+/* ______________________MODULE______________________ */
+.right-img {
+	float: right;
+	margin-left: 10px;
+	margin-right: 0;
+}
+
+.left-text {
+	text-align: left;
+	clear: left;
+}
+
+.left-img {
+	float: left;
+	margin-left: 0;
+	margin-right: 10px;
+}
+
+.right-text {
+	text-align: right;
+	clear: right;
 }
 
 .normal-text, .normal-text:visited {
