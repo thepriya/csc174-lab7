@@ -60,3 +60,9 @@ a:hover {
 a:visited {
 	color: #912617;
 }
+
+.normal-text, .normal-text:visited {
+	background-color: transparent;
+	text-decoration: none;
+	color: #373d3f;
+}
