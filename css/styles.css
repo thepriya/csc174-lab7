@@ -118,3 +118,8 @@ article > div.container {
 	text-decoration: none;
 	color: #373d3f;
 }
+/* Differentiate the odd student out in a noticeable but non-distracting way */
+.odd-out h2, .odd-out h3{
+	color: #829356;
+	text-decoration: underline;
+}
