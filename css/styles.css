@@ -1,0 +1,93 @@
+/*https://www.viget.com/articles/color-contrast/*/
+
+/* CSS inspired by:
+	http://csc174.org/assignment02/dcancelmo/css/styles.css
+*/
+
+body {
+	background-color: #093145;
+	color: #373d3f;
+	font-size: 1.1em;
+	font-family: Merriweather, serif;
+}
+
+header {
+	border-bottom: 3px double grey;
+}
+
+h1 {
+	padding: 15px 0 0 10px;
+}
+
+#container {
+	margin: 0 auto;
+	width: 85%;
+	background-color: #f2f3f4;
+	border-radius: 2px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+figure {
+	margin-top: 20px;
+	background-color: #C0C0C0;
+	padding: 10px;
+	text-align: center;
+}
+
+.right-img {
+	float: right;
+	margin-left: 10px;
+	margin-right: 0;
+}
+
+.left-text {
+	text-align: left;
+	clear: left;
+}
+
+.right-text {
+	text-align: right;
+	clear: right;
+}
+
+.left-img {
+	float: left;
+	margin-left: 0;
+	margin-right: 10px;
+}
+
+article {
+	padding: 0 10px 0 10px;
+}
+
+section {
+	padding: 10px 0 10px 0;
+}
+
+footer {
+	padding: 10px;
+	clear: both;
+}
+
+p {
+	line-height: 1.4em;
+}
+
+a {
+	color: #f58b4c;
+}
+
+a:visited {
+	color: #912617;
+}
+
+a:hover {
+	color: #c2571a;
+}
+
+.normal-text, .normal-text:visited {
+	background-color: transparent;
+	text-decoration: none;
+	color: #373d3f;
+}
