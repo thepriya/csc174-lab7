@@ -28,14 +28,6 @@ body {
 	font-family: Merriweather, serif;
 }
 
-article {
-	padding: 0 10px 0 10px;
-}
-
-section {
-	padding: 10px 0 10px 0;
-}
-
 footer {
 	padding: 10px;
 	clear: both;
@@ -43,13 +35,6 @@ footer {
 
 h1 {
 	padding: 15px 0 0 10px;
-}
-
-figure {
-	margin-top: 20px;
-	background-color: #C0C0C0;
-	padding: 10px;
-	text-align: center;
 }
 
 p {
@@ -72,7 +57,6 @@ hr {
 	width: 100%;
 }
 
-
 /* ______________________LAYOUT______________________ */
 .container {
 	margin: 0 auto;
@@ -84,13 +68,30 @@ hr {
 	padding-bottom: 1px;
 }
 
-article > div.container {
+.wrapper {
+	padding: 0 10px 0 10px;
+}
+
+.section {
+	padding: 10px 0 10px 0;
+	overflow: auto;
+}
+
+div > div.container {
 	margin-top: 30px;
 	margin-bottom: 30px;
 }
 
-
 /* ______________________MODULE______________________ */
+
+.left-img,
+.right-img {
+	margin-top: 20px;
+	background-color: #c0c0c0;
+	padding: 10px;
+	text-align: center;
+}
+
 .right-img {
 	float: right;
 	margin-left: 10px;
@@ -113,13 +114,15 @@ article > div.container {
 	clear: right;
 }
 
-.normal-text, .normal-text:visited {
+.normal-text,
+.normal-text:visited {
 	background-color: transparent;
 	text-decoration: none;
 	color: #373d3f;
 }
 /* Differentiate the odd student out in a noticeable but non-distracting way */
-.odd-out h2, .odd-out h3{
+.odd-out h2,
+.odd-out h3 {
 	color: #829356;
 	text-decoration: underline;
 }
