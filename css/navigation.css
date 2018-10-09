@@ -1,0 +1,45 @@
+/* 
+	Contents of this file falls under the "base" of the CSS stratgey
+	CSS inspired by:
+	http://csc174.org/assignment02/dcancelmo/css/nav.css
+*/
+
+nav {
+	float: right;
+	padding-top: 15px;
+	padding-bottom: 0.75em;
+}
+
+nav > ul {
+	margin: 0;
+	padding-left: 10%; 
+	padding-right: 10%;
+	list-style-type: none;
+	justify-content: flex-end;
+	display: flex;
+}
+
+nav > ul > li > a {
+	border: 1px solid grey;
+	background-color: #3c6478;
+	display: inline-block;
+	border-radius: 5px;
+	margin: 10px;
+}
+
+nav > ul > li > a,  nav > ul > li > a:visited{
+	display: block;
+	padding: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	color: white;
+	text-decoration: none;
+}
+
+nav > ul > li > a:hover {
+	color: ivory;
+	background-color: #43abc9;
+	border-radius: 5px; 
+}
+
+
