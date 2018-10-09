@@ -66,6 +66,7 @@
 		</article>
 		
 		<footer>
+			<hr>
 			<p>CSC 174 | lab 7 | Team Vancouver</p>
 		</footer>
 	</div>
