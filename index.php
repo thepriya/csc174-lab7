@@ -11,17 +11,7 @@
 
 <body>
 	<div class="container">
-		<header>
-			<nav>
-				<ul>
-					<li><a href="student-detail.html#kevin">Kevin</a></li>
-					<li><a href="student-detail.html#lingling">Lingling</a></li>
-					<li><a href="student-detail.html#valerie">Valerie</a></li>
-				</ul>
-			</nav>
-			<h1><a href="index.html" class="normal-text">Odd Student Out</a></h1> 
-			<hr>
-		</header>
+		<?php include 'includes/navbar.php'?>
 		
 		<article>
 		
