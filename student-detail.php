@@ -33,7 +33,7 @@
 					<p>As the founder of Math Team and member of Engineering Club at his high school, he created a supportive learning environment to tackle interesting math problems and build robots outside of the classroom with peers who shared the same passion. He enjoys putting ideas into actions and learning through peer-led collaboration. Kevin was excited when he learned about hackathons, a platform for programmers to collaborate with each other and create an interesting project under twenty-four hours! Kevin and his friend went to the hackathon at Syracuse University last semester, and, although the result was not ideal, they made several friends there and gained tons of fun and excitements! He firmly believes that those two days that they spent there were worthwhile for his mundane freshman year.</p>
 				</div>
 				<div>
-					<h3>Summary</h3>
+					<h3>Interests</h3>
 					<p>When Kevin thinks of the University of Rochester, he thinks of thousands of patients such as himself who has or may suffer from potentially fatal infections or acute asthma attacks. He thinks of the technology-enabled medical techniques that literally saved millions of lives. He thinks of an inspiration-filled atmosphere that perpetually battles at the forefront of breakthrough innovation. And he thinks of a world-class institution where he believes would be the best place for him to study as an engineer and as a leader, allowing him to be bold to dream and to be strong to lead!</p>
 				</div>
 				
