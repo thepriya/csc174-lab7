@@ -35,7 +35,7 @@ In the subpage, the three headings that are used are:
 
 
 
-### Choreography 
+### Choreography: 
 
 The odd student out is Kevin as the other two students are female students and Kevin is not. Kevin is the first student mentioned and the different style indicates this. He is at the top of the list to make it stand out that he is the odd student.
 
