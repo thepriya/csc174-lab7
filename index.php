@@ -13,7 +13,7 @@
 	<div class="container">
 		<?php include 'includes/navbar.php'?>
 
-		<section class="hero">
+		<section>
 			<figure class="center-img">
 				<img src="images/hero.jpg" alt="Kevin, Valerie, Lingling in order. Kevin is distinguished with blue bars">
 			</figure>
@@ -27,7 +27,7 @@
 			</div>
 		</section>
 		
-		<article>
+		<article id="home-article">
 		
 			<section class="odd-out">
 				<figure class="right-img">

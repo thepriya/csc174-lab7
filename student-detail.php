@@ -12,7 +12,6 @@
 <body>
 	<div class="container">
 		<?php include 'includes/navbar.php'?>
-		
 	</div>
 	<article>		
 		<div class="container odd-out">
