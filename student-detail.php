@@ -14,13 +14,9 @@
 		<?php include 'includes/navbar.php'?>
 	</div>
 	<article>		
-		<div class="container odd-out">
+		<div class="container odd-out parallel">
 			<section id="kevin">
 				<h2>Kevin Kao</h2>
-
-				<figure class="right-img">
-					<img src="images/kevin.jpg" alt="kevin">
-				</figure>
 				<div>
 					<h3>About</h3>
 					<p>When Kevin was four years old, he had severe pneumonia, for which he stayed in the ICU for two weeks. When he was seven, he had an asthma attack on the running track during elementary school. Kevin was taken to the ER to be treated with a nebulizer. In both cases, he would not have survived without the care of doctors, nurses, parents, and more importantly, the advanced medical technology that made treatment possible. Since then, he was determined to improve human life with technology. Technology has saved his life twice.</p>
@@ -35,17 +31,17 @@
 					<h3>Interests</h3>
 					<p>When Kevin thinks of the University of Rochester, he thinks of thousands of patients such as himself who has or may suffer from potentially fatal infections or acute asthma attacks. He thinks of the technology-enabled medical techniques that literally saved millions of lives. He thinks of an inspiration-filled atmosphere that perpetually battles at the forefront of breakthrough innovation. And he thinks of a world-class institution where he believes would be the best place for him to study as an engineer and as a leader, allowing him to be bold to dream and to be strong to lead!</p>
 				</div>
-				
-
 			</section>
+			<aside>
+				<figure>
+					<img src="images/kevin.jpg" alt="kevin">
+				</figure>
+				<p>Kevin Kao is a University of Rochester student who was born in New York but went to Taiwan for primary and secondary educations! He is currently a sophomore doubling major in Computer Science and Mathematics at the University of Rochester. He has a strong interest in the field of science, and he has taken many courses related to his major last year. For example, he took CSC (170, 171, 172) and MTH (150, 165, 171, 172). In addition to that, he is now taking CSC (173, 174, 214) and MTH (173, 190, 201) to better prepare him for his career. He would like to share what triggers him to become a copmuter scientist and why he loves technology so much!</p>
+			</aside>
 		</div>
-		<div class="container">
+		<div class="container parallel">
 			<section id="lingling">
 				<h2>Lingling Li</h2>
-
-				<figure class="right-img">
-					<img src="images/lingling.jpg" alt="lingling">
-				</figure>
 				<div>
 					<h3>About</h3>
 					<p>Lingling comes from Shanghai, China, which is a modern and beautiful city. The place she misses the most is the park near her kindergarten. When she was age 4 when most ofher peers had attended the kindergarten and started their "academic year". Lingling, on the other hand was still playing or in other words "studying"at home. Her parents think that family education is better for a young kid than attending the class in the kindergarten, although the "family education"is not as popular in China as in America. She thanks her parents a lot for letting her have this experience.</p>
@@ -59,16 +55,18 @@
 					<h3>Interests</h3>
 					<p>Lingling loves to play the piano and is currently taking lessons in Eastman music school. She started to learn piano (as well as her painting) when she was in Kindergarten. Yes! Kindergarten again! But it was not until she attended the piano lesson in Eastman, did she start to love playing the piano. The teacher in Eastman simply overturned everything she thought She knew about the piano and how to practice the piano. "You must think the piano as an assembled collection of instruments”, her teacher said. She started to explore the unique tone quality of different region on the keyboard, and that makes me really excited. Just imagine! You can play as a band while you are just actually playing the single instrument!</p>
 					<p>Besides the piano, Lingling is also trying to explore her skill's possibility! She loves painting and designing and has an internship this summer as a graphic designer in a Fin-tech company. For the sports, she love play badminton, and successfully managed to realize her goal settled at the beginning of last semester to cover 4 hours of sports every week. This semester, she wants to explore the dancing area! She registered the "Rice Crew"club to have a taste of K-pop dancing. She is also trying to do something for the community. She passed the elections to be a D'Lion this year on Gate 6 and Gannett 6, aiming to help the first-year students move into the campus and acted as a student leader on behalf on the "social sprit”.</p>
-				</div>	
+				</div>
 			</section>
+			<aside>
+				<figure>
+					<img src="images/lingling.jpg" alt="lingling">
+				</figure>
+				<p>Lingling Li is a University of Rochester student who is from Shanghai, China. Her English name is Lily. She loves playing the piano, drawing, cooking and playing the badminton. She is now a sophomore, and also the D’Lion in charge of Gates 6 and Gannett 6. Her job is to help the first year student better move in to the brand new college life, and be their first friend in the college. She is planning to have a double major in Business and Digital Media Study, minor in Japanese. A fun fact about her: She can never count how many steps she had done when doing the “Running jump shot”</p>
+			</aside>	
 		</div>
-		<div class="container">
+		<div class="container parallel">
 			<section id="valerie">
 				<h2>Valerie Tam</h2>
-
-				<figure class="right-img">
-					<img src="images/valerie.jpg" alt="valerie">
-				</figure>
 				<div>
 					<h3>About</h3>
 					<p>Valerie has done a variety of work, both as a volunteer and as a paid employee. Her first job was at Mini Ivy Tutoring Center, where she tutored elementary and middle school students in math and English. In addition, she performed various office administrative duties, such as keeping track of attendance and picking up phone calls. </p>
@@ -85,6 +83,12 @@
 					<p>For the past two years, Valerie has been an intern at the American Museum of Natural History’s ornithology department. She conducted library and laboratory research on the genetic diversity of European starlings. The goal of the project was to determine if there were any distinct genetic differences between the European starlings of North America and their parent population. The research included extracting DNA from the flesh of the bird specimens and amplifying mitochondrial DNA from the birds. In addition, she used a bioinformatics software called Geneious to analyze and edit the DNA sequences. The program culminated in a research presentation at a symposium session.</p>
 				</div>
 			</section>
+			<aside>
+				<figure>
+					<img src="images/valerie.jpg" alt="valerie">
+				</figure>
+				<p>Valerie Tam is a sophomore at the University of Rochester majoring in data science with clusters in Chinese and Psychology. She is also the marketing director of the Hong Kong Students’ Association. As the marketing director, she updates the club’s social media pages and creates posters for events. She was born and raised in New York City. Some of her favorite things to do in New York City include walking around Soho and going to the best bubble tea shops, such as Bar Pa Tea and Yaya Tea. In addition, she considers herself a foodie, always trying the newest restaurant or dessert shop which is why she created a foodstagram to document all of her food journeys.</p>
+			</aside>
 		</div>
 	</article>
 	<div class="container">
