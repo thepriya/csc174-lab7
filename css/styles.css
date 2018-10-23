@@ -143,6 +143,10 @@ article > div.container {
 	text-decoration: underline;
 }
 
+.odd-out figure {
+	background-color: #829356;
+}
+
 .info-box {
 	float: left;
 	border: solid 4px #829356;
