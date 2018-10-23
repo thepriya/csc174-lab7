@@ -12,6 +12,20 @@
 <body>
 	<div class="container">
 		<?php include 'includes/navbar.php'?>
+
+		<section class="hero">
+			<figure class="center-img">
+				<img src="images/hero.jpg" alt="Kevin, Valerie, Lingling in order. Kevin is surrounded in green bars">
+			</figure>
+			<div class="info-box"> <!--Weak follow -->
+				<h2>Site Mission</h2>
+				<div class="sentence">The goal is to showcase three students—Kevin, Valerie, and Lingling—with one of them being different than the others.</div>
+			</div>
+			<div class="info-box-important">
+				<h2>Odd out</h2>
+				<div class="sentence">Kevin is the odd student out because he is male whereas Valerie and Lingling are female.</div>
+			</div>
+		</section>
 		
 		<article>
 		

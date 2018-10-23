@@ -30,6 +30,7 @@ body {
 
 article {
 	padding: 0 10px 0 10px;
+	clear: both;
 }
 
 section {
@@ -51,6 +52,10 @@ figure {
 	background-color: #C0C0C0;
 	padding: 10px;
 	text-align: center;
+}
+
+img {
+	width: 100%;
 }
 
 p {
@@ -92,6 +97,14 @@ article > div.container {
 
 
 /* ______________________MODULE______________________ */
+.sentence {
+	line-height: 1.4em;
+	margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
 .right-img {
 	float: right;
 	margin-left: 10px;
@@ -114,6 +127,11 @@ article > div.container {
 	clear: right;
 }
 
+.center-img {
+	margin: 0 auto;
+	background-color: transparent;
+}
+
 .normal-text, .normal-text:visited {
 	background-color: transparent;
 	text-decoration: none;
@@ -123,4 +141,28 @@ article > div.container {
 .odd-out h2, .odd-out h3{
 	color: #829356;
 	text-decoration: underline;
+}
+
+.info-box {
+	float: left;
+	border: solid 4px #829356;
+	padding: 10px;
+	margin: 15px;
+	max-width: 40%;
+	border-radius: 5px;
+}
+
+.info-box-important {
+	float: right;
+	border: solid 4px #829356;
+	background-color: #093145;
+	color: #f2f3f4;
+	padding: 10px;
+	margin: 15px;
+	max-width: 40%;
+	border-radius: 5px;
+}
+.info-box > h2, .info-box-important > h2 {
+	margin: 0 0 10px 0;
+	text-align: center;
 }
