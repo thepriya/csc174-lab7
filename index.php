@@ -15,7 +15,7 @@
 
 		<section class="hero">
 			<figure class="center-img">
-				<img src="images/hero.jpg" alt="Kevin, Valerie, Lingling in order. Kevin is surrounded in green bars">
+				<img src="images/hero.jpg" alt="Kevin, Valerie, Lingling in order. Kevin is distinguished with blue bars">
 			</figure>
 			<div class="info-box"> <!--Weak follow -->
 				<h2>Site Mission</h2>
