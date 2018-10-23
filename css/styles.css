@@ -99,12 +99,6 @@ article > div.container {
 	padding: 0 10px 0 10px;
 }
 
-.parallel {
-	display: grid;
-	grid-template-columns: 2fr 1fr;
-  	grid-column-gap: 30px;
-}
-
 
 /* ______________________MODULE______________________ */
 .sentence {
@@ -113,6 +107,12 @@ article > div.container {
     margin-block-end: 1em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
+}
+
+.parallel {
+	display: grid;
+	grid-template-columns: 2fr 1fr;
+	grid-column-gap: 30px;
 }
 
 .right-img {
