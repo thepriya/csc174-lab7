@@ -21,10 +21,12 @@
 				<h2>Site Mission</h2>
 				<div class="sentence">The goal is to showcase three students—Kevin, Valerie, and Lingling—with one of them being different than the others.</div>
 			</div>
-			<div class="info-box-important">
-				<h2>Odd out</h2>
-				<div class="sentence">Kevin is the odd student out because he is male whereas Valerie and Lingling are female.</div>
-			</div>
+			<a href="student-detail.php">
+				<div class="info-box-important">
+					<h2>Odd out</h2>
+					<div class="sentence">Kevin is the odd student out because he is male whereas Valerie and Lingling are female.</div>
+				</div>
+			</a>
 		</section>
 		
 		<article id="home-article">
